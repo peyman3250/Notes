@@ -4,7 +4,7 @@
 - `@` - Commercial at-sign
 - `#` - Hash, Number, Pound
 - `$` - Dollar sign
-- `%` - Persent sign
+- `%` - Percent sign
 - `^` - Caret
 - `&` - Ampersand, and-sign
 - `*` - Asterisk, Multiplication sign
