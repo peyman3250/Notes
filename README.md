@@ -11,6 +11,7 @@
 - `(` - Left parenthesis
 - `)` - Right parenthesis
 ### Links
+- [CLI command notes](docs/cli.md)
 - [GitHub Page](https://github.com)
 - [GitHub Gist](https://gist.github.com)
 - [George Brown College](https://www.georgebrown.ca)
